@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/HarveyNichols_Product/bin/Debug/netcoreapp2.2
+/HarveyNichols_Product/obj
+/ProductDB/bin/Debug
+/ProductDB/obj/Debug
+*.user
+/ProductDB/ProductDB.dbmdl
+/ProductDB/ProductDB.jfm
